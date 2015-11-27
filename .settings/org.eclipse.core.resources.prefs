@@ -1,0 +1,14 @@
+eclipse.preferences.version=1
+encoding//deepwalk/__init__.py=utf-8
+encoding//deepwalk/__main__.py=utf-8
+encoding//deepwalk/graph.py=utf-8
+encoding//src/deepmetapath/__init__.py=utf-8
+encoding//src/deepmetapath/deepMetaPath.py=utf-8
+encoding//src/deepmetapath/deepWalk.py=utf-8
+encoding//src/deepmetapath/fileProcess.py=utf-8
+encoding//src/deepwalk/__init__.py=utf-8
+encoding//src/deepwalk/__main__.py=utf-8
+encoding//src/deepwalk/graph.py=utf-8
+encoding//src/original/meta/path/__main__.py=utf-8
+encoding//src/spark/metapath/__main__.py=utf-8
+encoding//src/spark/metapath/baseline.py=utf-8
