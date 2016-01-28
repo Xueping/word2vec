@@ -94,6 +94,11 @@ if __name__ == '__main__':
     #return top 5
     print results[:5]
     
+    
+    model = Word2Vec.load_word2vec_format("../../data/class-out.txt")
+    for node in model.most_similar("34",topn=5):
+        print(node)
+    
 #     f_items = open("../../data/class-out1.txt", "w")
 #     f_items.write("".join(map(lambda x: str(x), items)))
 #     f_items.close()
